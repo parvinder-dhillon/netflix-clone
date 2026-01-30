@@ -228,7 +228,7 @@ select{
     gap: 1rem;
     height:350px;
     white-space: nowrap;
-    scrollbar-width:thin;
+    scrollbar-width:none;
     scrollbar-color: #999 transparent;
     scroll-behavior: smooth;
 
